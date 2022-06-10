@@ -16,7 +16,9 @@ Also, feel free to check out my notes and projects on <a href="https://combiz.me
     <a href="https://github.com/combiz/scflow"><img src="https://github.com/combiz/scFlow/raw/master/man/figures/logo.png" width="15%" align="center" /></a> &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/combiz/nf-core-scflow"><img src="https://github.com/combiz/nf-core-scflow/raw/dev/docs/images/nf-core-scflow_logo.png" width="33%" align="center"/></a>
 <div>
-  
+
+
 ## Standard tools I use:
 
 <img src="./tags.svg" width="100%" height="100%">
+
