@@ -20,5 +20,5 @@ Also, feel free to check out my notes and projects on <a href="https://combiz.me
 
 ## Standard tools I use:
 
-<img src="./tags.svg" width="100%" height="100%">
+<img src="./tags.svg" width="100%" height="150">
 
