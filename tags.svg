@@ -1,0 +1,81 @@
+<!-- Modifications by CK, based on the original work of Matt Fantinel, https://github.com/matfantinel !-->
+<svg fill="none" viewBox="0 0 100 -100" width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
+        .tags {
+          display: flex;
+          flex-wrap: wrap;
+          height: 100%;
+          width: 100%;
+          margin-bottom: 5px;
+        }
+        .tag {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          gap: 5px;
+          padding: 5px 15px;
+          border-radius: 10px;
+          font-weight: 500;
+          font-size: 0.85rem;
+          width: fit-content;
+          white-space: nowrap;
+          font-family:sans-serif;
+          background-color: #777;
+          color: #fffff8;
+          margin: 0.125em;
+        }
+        .tag_title {
+          font-family:sans-serif;
+          font-size: 14px;
+          gap: 5px;
+          padding: 5px 15px;
+          border-radius: 10px;
+
+        }
+      </style>
+
+      
+      <div class="tags">
+        <div class = "tag_title">Core: </div>
+        <div class="tag">R</div>
+        <div class="tag">Python</div>
+        <div class="tag">NumPy</div>
+        <div class="tag">Pandas</div>
+        <div class="tag">Github</div>
+        <div class="tag">Docker</div>
+      </div>
+      <div class="tags">
+        <div class = "tag_title" style="color:white;">Core: </div>
+        <div class="tag">Bash</div>
+        <div class="tag">Jupyter</div>
+        <div class="tag">Sklearn</div>
+        <div class="tag">PyTorch</div>
+        <div class="tag">Keras</div>
+        <div class="tag">NextFlow</div>
+      </div>
+      <div class="tags">
+        <div class = "tag_title">Cloud: </div>
+        <div class="tag">GCP</div>
+        <div class="tag">AWS</div>
+        <div class = "tag_title">DB: </div>
+        <div class="tag">SQL</div>
+        <div class="tag">No-SQL</div>
+      </div>
+      <div class="tags">
+        <div class = "tag_title">Deploy: </div>
+        <div class="tag">K8S</div>
+        <div class="tag">Flask</div>
+        <div class="tag">FastAPI</div>
+        <div class="tag">Heroku</div>
+        <div class = "tag_title">Web: </div>
+        <div class="tag">HTML</div>
+        <div class="tag">CSS</div>
+        <div class="tag">D3</div>
+      </div>
+
+    </div>
+  </foreignObject>
+</svg>
