@@ -7,7 +7,6 @@ I am Combiz, a **data scientist** and **bioinformatician** from the UK, currentl
 
 Also, feel free to check out my notes and projects on <a href="https://combiz.me" target="_blank">my website</a>.
 
-&nbsp;
 ### Recent Highlights
 
 <a href="https://github.com/scFlow">scFlow</a>, an R package toolkit for the analysis of scRNAseq data with higher levels of abstraction.  And a Nextflow pipeline, <a href="https://github.com/combiz/nf-core-scflow">nf-core-scflow</a>, for automated, cloud scalable, reproducible analyses of full scRNAseq datasets using the scFlow toolkit.  See the pre-print <a href="https://www.biorxiv.org/content/10.1101/2021.08.16.456499v2">here</a> or a lay summary <a href="https://combiz.me/works/scflow-analytical-workflows-for-single-cell-data/">here</a>. 
