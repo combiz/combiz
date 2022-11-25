@@ -3,7 +3,7 @@
 </p>	
 <img src="./waves.svg" width="100%" height="150">
 
-I am Combiz, a **data scientist** from the UK with domain-specific experience in bioinformatics and fintech. I analyse multimodal data and build analytical solutions including **automated pipelines, machine learning and statistical models, APIs, and visualizations**.  You can check out my work with Open-Source Software and other projects here on GitHub.
+I am Combiz, a **full-stack data scientist** from the UK working in bioinformatics and fintech. I analyse multimodal data and build analytical solutions including **automated pipelines, machine learning and statistical models, APIs, and visualizations**.  You can check out my work with Open-Source Software and other projects here on GitHub.
 
 Also, feel free to check out my notes and projects on <a href="https://combiz.me" target="_blank">my website</a>.
 
