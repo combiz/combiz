@@ -78,7 +78,10 @@ His work with open-source software and various other projects can be found here 
   </a> 
   <a href="https://spark.apache.org/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="PySpark" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.getdbt.com/" target="_blank">
+    <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"/>
+  </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="SQL" width="40" height="40"/> 
   </a> 
