@@ -3,11 +3,13 @@
 </p>	
 <img src="./waves.svg" width="100%" height="100">
 
-Combiz is a **full-stack data scientist** based in the UK, specializing in bioinformatics and FinTech. With expertise in analyzing multimodal data, he develops comprehensive analytical solutions, including automated pipelines, machine learning models, statistical models, APIs, and visualizations.
+Combiz is a **Full-Stack Data Scientist & AI Engineer** specializing in Enterprise AI Agents. He focuses on building production-grade agentic workflows and LLM orchestration.
 
-His work with open-source software and various other projects can be found here on GitHub. For a deeper dive into his notes and projects, please visit his <a href="https://combiz.me" target="_blank">website</a>.
+---
 
-### Recent Highlights
+### Recent contributions
+
+Earlier work focused on scalable analytical solutions for bioinformatics and computational biology.
 
 <a href="https://github.com/scFlow">scFlow</a>, an R package toolkit for the analysis of scRNAseq data with higher levels of abstraction.  And a Nextflow pipeline, <a href="https://github.com/combiz/nf-core-scflow">nf-core-scflow</a>, for automated, cloud scalable, reproducible analyses of full scRNAseq datasets using the scFlow toolkit.  See the pre-print <a href="https://www.biorxiv.org/content/10.1101/2021.08.16.456499v2">here</a> or a lay summary <a href="https://combiz.me/works/scflow-analytical-workflows-for-single-cell-data/">here</a>. 
 
